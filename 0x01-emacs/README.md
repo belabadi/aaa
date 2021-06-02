@@ -1,3 +1,1 @@
-Shell basics
-
-# emsi-tools
+Practicing emacs commands!
