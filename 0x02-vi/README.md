@@ -1,3 +1,1 @@
-Shell basics
-
-# emsi-tools
+Practing vi commands
