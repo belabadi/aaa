@@ -1,3 +1,1 @@
-#!/bin/bash
-rmdir /tmp/holberton
-
+C-x C-c
